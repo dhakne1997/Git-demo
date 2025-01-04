@@ -1,0 +1,28 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 039b8ad..0dd50dc 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,2 @@[m
+[31m-# i am balaji dhakne[m
+\ No newline at end of file[m
+[32m+[m[32m# i am balaji dhakne[m
+[32m+[m[32m# Software Engineer[m
+\ No newline at end of file[m
+[1mdiff --git a/bin/test/demo.class b/bin/test/demo.class[m
+[1mindex a5a2b4f..773963e 100644[m
+Binary files a/bin/test/demo.class and b/bin/test/demo.class differ
+[1mdiff --git a/src/test/demo.java b/src/test/demo.java[m
+[1mindex 729f3c6..8d01d88 100644[m
+[1m--- a/src/test/demo.java[m
+[1m+++ b/src/test/demo.java[m
+[36m@@ -1,5 +1,10 @@[m
+ package test;[m
+ [m
+ public class demo {[m
+[32m+[m	[32mpublic static void main(String[] args) {[m
+ [m
+[32m+[m[41m	[m
+[32m+[m	[32mSystem.out.println("ji");[m
+[32m+[m
+[32m+[m	[32m}[m
+ }[m
