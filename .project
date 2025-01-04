@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>GitDemo</name>
+=======
+	<name>Demo</name>
+>>>>>>> 0357fc1 (Demo Project)
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+<<<<<<< HEAD
+	</buildSpec>
+	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 0357fc1 (Demo Project)
+	</natures>
+</projectDescription>
